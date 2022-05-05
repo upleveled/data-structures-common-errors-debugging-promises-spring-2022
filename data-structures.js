@@ -1,7 +1,7 @@
 // number
 const Integer = 1;
 const folatingPointNumber = 1.1;
-const sum = 1.1 + 1.2; // this is not going to do what you expect
+console.log(1.1 + 1.2); // this is not going to do what you expect
 const numberFromString = Number('123');
 
 // string
